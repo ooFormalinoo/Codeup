@@ -1,3 +1,6 @@
+//注意整数的范围即可，写的有点麻烦
+//读入数据的时候可以直接按字符串读入不用sprintf函数转换
+//生成Pa和Pb的时候可以*10累加，也不需要借助sscanf函数 
 #include<iostream>
 #include<cmath>
 #include<cstring>
